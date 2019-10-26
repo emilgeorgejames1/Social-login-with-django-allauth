@@ -1,5 +1,5 @@
 # Social-login-with-django-allauth
-User Authentication with a Google &amp; Facebook Account using Django Allauth
+User Authentication with a Google &amp; Facebook Accounts using Django Allauth
 
 Follow these steps to download and run the
 django-allauth example application in this directory:
