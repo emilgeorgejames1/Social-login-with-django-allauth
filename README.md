@@ -41,7 +41,7 @@ Create a Social Application for Google and facebook at http://127.0.0.1:8000/adm
 
 Finally:
  
- login : https://localhost:8000/accounts/login__
+ login : https://localhost:8000/accounts/login <br />
  signup : https://localhost:8000/accounts/signup__
  logout : https://localhost:8000/accounts/logout__
  
