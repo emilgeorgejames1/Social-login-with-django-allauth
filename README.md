@@ -37,7 +37,5 @@ Run the Django development server:
 
     $ python manage.py runserver
 
-Add configuration for google and facebook.
-
 Create a Social Application for Google and facebook at http://127.0.0.1:8000/admin/socialaccount/socialapp.
 
