@@ -39,3 +39,13 @@ Run the Django development server:
 
 Create a Social Application for Google and facebook at http://127.0.0.1:8000/admin/socialaccount/socialapp.
 
+Finally:
+ 
+ login : https://localhost:8000/accounts/login
+ signup : https://localhost:8000/accounts/signup
+ logout : https://localhost:8000/accounts/logout
+ 
+Reference for Facebook and google app configuration:
+  
+  http://www.marinamele.com/user-authentication-with-google-using-django-allauth
+  
