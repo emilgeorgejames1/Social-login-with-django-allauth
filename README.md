@@ -47,5 +47,6 @@ Finally:
  
 Reference for Facebook and google app configuration:
   
-  http://www.marinamele.com/user-authentication-with-google-using-django-allauth
+  Google config : http://www.marinamele.com/user-authentication-with-google-using-django-allauth<br />
+  Facebook Config : https://medium.com/@jinkwon711/django-allauth-facebook-login-b536444cbc6b
   
