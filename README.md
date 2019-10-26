@@ -7,7 +7,7 @@ django-allauth example application in this directory:
 ::
 
     $ git clone https://github.com/emilgeorgejames1/Social-login-with-django-allauth.git
-    $ cd django-allauth/example
+    $ cd social-login/
     $ virtualenv venv
     $ . venv/bin/activate
     $ pip install -r requirements.txt
